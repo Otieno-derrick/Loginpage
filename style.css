@@ -177,4 +177,8 @@ input[type="submit"]:active
     font-size: 16px;
 }
 
-
+#sign:hover
+{
+   color: #8f8f8f;
+   letter-spacing: 3px;
+}
